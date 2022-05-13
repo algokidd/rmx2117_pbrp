@@ -28,9 +28,9 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/roo
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := RMX2117
 PRODUCT_NAME := omni_RMX2117
-PRODUCT_BRAND := Realme
-PRODUCT_MODEL := X7
-PRODUCT_MANUFACTURER := Realme
+PRODUCT_BRAND := realme
+PRODUCT_MODEL := RMX2117
+PRODUCT_MANUFACTURER := realme
 
 # Dynamic
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
