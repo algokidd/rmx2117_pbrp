@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/roo
 	$(LOCAL_PATH)/prebuilt/dtb:dtb.img
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := RMX2117L1
+PRODUCT_DEVICE := RMX2117
 PRODUCT_NAME := omni_RMX2117
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := RMX2117
